@@ -1,0 +1,7 @@
+__pycache__/
+.DS_Store
+build/
+dist/
+*.spec
+sample_data/*.xlsx
+*_Output*.xlsx

@@ -1,0 +1,6 @@
+pandas>=2.0.0
+openpyxl>=3.1.0
+# .xls (legacy) support
+xlrd>=2.0.1
+# Packaging (build-time only)
+pyinstaller>=6.0.0
